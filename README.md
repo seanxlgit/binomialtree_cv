@@ -1,13 +1,12 @@
-## Welcome to Sean's Binomial Tree Changing Volatility Page
+## Binomial Tree Option Pricing Model with Changing Volatility
 
 This code implements binomial tree option pricing with changing volatility.
 
-## the pros of this code are:
+## Advantages over conventional binomial tree methods:
 
 - handles changing volatility instead of using unrealistic constant volatility assumption
 - calculates option price more accurately with setting up a **changing volatility** profile
 
-You may check the **sample result** to find more details.
+You may check the ```sample result``` file to find more details.
 
-```
-by Sean X.L.  Thanks!
+We appreciate your feedback.
